@@ -1,0 +1,14 @@
+Car Rental Agency
+------------------
+1) email : ahujamotors@gmail.com
+   password : ahuja@1234
+
+2) email : sharmaautos@gmail.com
+    password : sharma@1234
+
+
+Customer
+--------------------------------
+1) email :ritesh@gmail.com
+   password : ritesh@1234
+
